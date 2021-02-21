@@ -186,4 +186,5 @@ grep -v Success salesforce/*update.log
 ```
 
 11. Verify the updated values in CCADB
-Connet to the Web UI of CCADB and confirm the update values.
+
+Connect to the Web UI of CCADB and confirm the update values.
